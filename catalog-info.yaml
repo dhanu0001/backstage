@@ -4,7 +4,7 @@ metadata:
   name: backstagedemo
   description: backstage demo-application
   annotations:
-    github.com/project-slug: backstage/backstage
+    github.com/project-slug: dhanu0001/backstage
 spec:
   type: service
   owner: development
