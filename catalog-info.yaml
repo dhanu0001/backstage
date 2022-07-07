@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: backstage-demo
+  name: backstagedemo
   description: backstage demp-application
   annotations:
     github.com/project-slug: backstage/backstage
