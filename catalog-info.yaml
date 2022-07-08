@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: backstage
+  name: backstagedemo1
   description: backstage demo-application
   annotations:
     github.com/project-slug: dhanu0001/backstage
