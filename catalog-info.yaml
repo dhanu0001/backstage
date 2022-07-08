@@ -7,5 +7,5 @@ metadata:
     github.com/project-slug: dhanu0001/backstage
 spec:
   type: service
-  owner: user:dhanu0001
+  owner: production
   lifecycle: team-platform
