@@ -5,7 +5,8 @@ metadata:
   description: backstage demo-application
   annotations:
     github.com/project-slug: dhanu0001/backstage
+
 spec:
   type: service
-  owner: user: dhanu0001
+  owner: dhanu0001
   lifecycle: production
