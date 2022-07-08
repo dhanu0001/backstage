@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: backstage1
+  name: backstage
   description: 'CDK stack project to create infra to run backstage app'
   annotations:
     github.com/project-slug: dhanu0001/backstage
