@@ -1,12 +1,12 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: backstagedemo1
-  description: backstage demo-application
+  name: backstage1
+  description: 'CDK stack project to create infra to run backstage app'
   annotations:
     github.com/project-slug: dhanu0001/backstage
-
+    
 spec:
   type: service
+  lifecycle: experimental
   owner: dhanu0001
-  lifecycle: production
